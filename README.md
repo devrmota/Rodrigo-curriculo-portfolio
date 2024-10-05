@@ -15,7 +15,7 @@
 
 <p>Para visualizar o site, clique no link abaixo:</p>
 
-[Acessar o Site](https://github.com/devrmota/rodrigo-curriculo.git)
+[Acessar o Site](https://devrmota.github.io/rodrigo-curriculo/)
 
 ## Sobre o Projeto:
 
